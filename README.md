@@ -1,3 +1,3 @@
 # Omar-Khan
-This is first my Repository
+This is first my Repository.
 Author - Omar Khan
